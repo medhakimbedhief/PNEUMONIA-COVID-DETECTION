@@ -1,20 +1,13 @@
-#  Recognizer App
+I am honored to inform you that we have won the prize for the best project 🥇 of the AI course at the 9th edition of the project ball.
 
-J'ai l'honneur de vous faire part du fait que nous avons gagné le prix du meilleur projet 🥇 du parcours AI dans le cadre de la 9ème édition du bal des projets.
+Our Pneumonia/covid detections project is an artificial artificial intelligence project, the aim of which was to use machine learning techniques to train, deploy and monitor a machine learning model machine learning model capable of classifying with very high patients with pneumonia, Covid or healthy patients. or healthy patients. through X-ray images of their thoracic cages.
 
-Notre projet Pneumonia/covid détections est un projet d'intelligence artificielle dont il était question d’utiliser les techniques de machine learning pour entraîner, déployer et monitorer un modèle de machine learning capable de classifier avec une très grande précision les patients atteints soit de pneumonie, soit du Covid ou encore les patients sains. À travers les images radiographiques de leurs cages thoraciques.
+To successfully complete this project, we had to overcome a number of technical challenges in data preparation. the choice of the best image resolution for best memory performance memory performance, choosing the best filter to highlight the most 
+highlight the most pixels responsible for the anomaly.
 
-Pour mener à bien ce projet, il a été question pour nous de surmonter plusieurs défis techniques dans le cadre de la préparation de données à savoir: le choix de la meilleure résolution d’image pour une meilleure performance en mémoire, le choix du meilleur filtre qui met en exergue le plus de pixel responsable de l'anomalie.
+For model learning, the problem was that of choice of the best tools and/or algorithms to maximize accuracy. So, after several trials, we opted for Tensi's Functional Api the TensorFlow/Keras functional Api. This will enable us to merge two 
+independently sensitive algorithms on different classes. This will result in a more robust, scalable model and increased accuracy accuracy for the different classes to be classified.
 
-Pour l’apprentissage du modèle, le problème était celui du choix des meilleurs outils et ou algorithmes qui maximisent la précision. c'est en ce sens qu'après plusieurs essais, on optera pour l’Api fonctionnel de TensorFlow/Keras. Ainsi, on pourra fusionner deux algorithmes indépendamment sensibles sur des classes différentes. Ceci aura pour effet d’avoir un modèle plus robuste, modulable et accroître la précision pour les différentes classes à classifier.
+For the purposes of model optimization, scalability and continuous integration, Kera
 
-Pour des besoins d’optimisation du modèle, de scalabilité et d'intégration continue les fonctions de Keras tels que les callbacks et outils TensorBoad seront utilisés. Ainsi on pourra sauvegarder le meilleur modèle et ou hyper paramètre à la suite de chaque étape d'entraînement, ce qui favorise un gain de temps considérable.
-
-Pour des raisons de rapidité, le framework Flutter est utilisé pour le déploiement mobile et Django pour le déploiement web. 
-
-Flutter Android & iOS Flowers Recogniser App [Deep Learning & Machine Learning]
-
-Mail me at:
-medhakimbedhief@gmail.com
-
-
+Translated with www.DeepL.com/Translator (free version)
